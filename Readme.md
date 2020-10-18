@@ -8,7 +8,7 @@ By Danielle Hoague & Andres Gonzalez
 - Proximity to these toxic materials can have long lasting neurological impacts and stunt childhood development. Oftentimes, the mental and psychological issues that arise from exposure to toxic materials can result in socio-behavioral issues that are interpreted by law enforcement and other community members as a threat or violent behavior. This is even more so in communities that are already over policed and where minor instigations can result in excessive violence and suppression by law enforcement officers. 
 
 
-> Our research seeks to understand: Are communities that are proximate to environmental health hazards more policed than those not as exposed by environmental health hazards? >`
+> Our research seeks to understand: Are communities that are proximate to environmental health hazards more policed than those not as exposed by environmental health hazards? 
 
 ## Explanation
 - Exposure to pollution can cause a plethora of negative health outcomes including degraded mental and physical health. Mental health conditions can manifest from unremediated exposure to ambient air pollution containing a mix of compounds including particulate matter (PM), nitrogen dioxide (NO2), carbon monoxide (CO), and sulfur dioxide (SO2) [NCBI, 2018]. According to the Journal of Urban Design and Mental Health, there is a paucity of evidence that mental health is correlated with ambient air pollution because there are confounding factors such as urban access to green space, vegetation, density and high rise living [King, 2018].
@@ -30,7 +30,7 @@ https://geohub.lacity.org/datasets/lacounty::hazardous-waste-disposal
 
 
 ## Scope
--We hope to understand what kind of policing occurs and compare different crimes to a census tract’s proximity to environmental hazards. We will also be able to further visualize this distribution by race, as well as other factors that may determine a community’s vulnerability such as climate change vulnerability’s scores, health scores, and cumulative pollution impacts
+- We hope to understand what kind of policing occurs and compare different crimes to a census tract’s proximity to environmental hazards. We will also be able to further visualize this distribution by race, as well as other factors that may determine a community’s vulnerability such as climate change vulnerability’s scores, health scores, and cumulative pollution impacts
 
 ## Conclusion:
 - We anticipate finding that particularly in Black and Brown communities there will already be a greater level of policing than the average in Los Angeles. Our main objective is to see if crime incident data rates change based on areas experiencing greater amounts of vulnerability due to environmental health hazards. 
@@ -62,3 +62,5 @@ https://chronicdata.cdc.gov/500-Cities/500-Cities-Census-Tract-level-Data-GIS-Fr
 *EJSM metadata
 https://www.arcgis.com/sharing/rest/content/items/ba1e513f3fd84029bd8888e2374e75c8/info/metadata/metadata.xml?format=default&output=html
 
+
+![Captain Planet](
