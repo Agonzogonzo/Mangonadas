@@ -1,6 +1,5 @@
 # Policing Proximate to Hazards
 By Danielle Hoague & Andres Gonzalez
-
 -----
 
 ## Introduction
@@ -8,7 +7,7 @@ By Danielle Hoague & Andres Gonzalez
 - Proximity to these toxic materials can have long lasting neurological impacts and stunt childhood development. Oftentimes, the mental and psychological issues that arise from exposure to toxic materials can result in socio-behavioral issues that are interpreted by law enforcement and other community members as a threat or violent behavior. This is even more so in communities that are already over policed and where minor instigations can result in excessive violence and suppression by law enforcement officers. 
 
 
-> Our research seeks to understand: Are communities that are proximate to environmental health hazards more policed than those not as exposed by environmental health hazards? 
+### *Our research seeks to understand: Are communities that are proximate to environmental health hazards more policed than those not as exposed by environmental health hazards?* 
 
 ## Explanation
 - Exposure to pollution can cause a plethora of negative health outcomes including degraded mental and physical health. Mental health conditions can manifest from unremediated exposure to ambient air pollution containing a mix of compounds including particulate matter (PM), nitrogen dioxide (NO2), carbon monoxide (CO), and sulfur dioxide (SO2) [NCBI, 2018]. According to the Journal of Urban Design and Mental Health, there is a paucity of evidence that mental health is correlated with ambient air pollution because there are confounding factors such as urban access to green space, vegetation, density and high rise living [King, 2018].
@@ -42,24 +41,24 @@ https://geohub.lacity.org/datasets/lacounty::hazardous-waste-disposal
 
 ## Resources: 
 
-*[Team MangoNadas Github](https://github.com/Agonzogonzo/Mangonadas)
+*[Team MangoNadas Github](https://github.com/Agonzogonzo/Mangonadas)*
 
-*Disadvantaged community mapping tool 
+*Disadvantaged community mapping tool *
 https://gis.water.ca.gov/app/dacs/
 https://oehha.ca.gov/calenviroscreen/maps-data
 https://geohub.lacity.org/datasets/lacounty::hazardous-waste-disposal
 
-*California Dept of Public Health 
+*California Dept of Public Health *
 https://www.cdph.ca.gov/Programs/CCDPHP/DEODC
 https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/CLPPB/Pages/data.aspx
 
-*Recommended actions at blood lead levels
+*Recommended actions at blood lead levels *
 https://www.cdc.gov/nceh/lead/advisory/acclpp/actions-blls.htm
 
-*500 cities census tract data
+*500 cities census tract data *
 https://chronicdata.cdc.gov/500-Cities/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb
 
-*EJSM metadata
+*EJSM metadata*
 https://www.arcgis.com/sharing/rest/content/items/ba1e513f3fd84029bd8888e2374e75c8/info/metadata/metadata.xml?format=default&output=html
 
 
