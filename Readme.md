@@ -43,19 +43,19 @@ https://geohub.lacity.org/datasets/lacounty::hazardous-waste-disposal
 
 *[Team MangoNadas Github](https://github.com/Agonzogonzo/Mangonadas)*
 
-*Disadvantaged community mapping tool *
+*Disadvantaged community mapping tool*
 https://gis.water.ca.gov/app/dacs/
 https://oehha.ca.gov/calenviroscreen/maps-data
 https://geohub.lacity.org/datasets/lacounty::hazardous-waste-disposal
 
-*California Dept of Public Health *
+*California Dept of Public Health*
 https://www.cdph.ca.gov/Programs/CCDPHP/DEODC
 https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/CLPPB/Pages/data.aspx
 
-*Recommended actions at blood lead levels *
+*Recommended actions at blood lead levels*
 https://www.cdc.gov/nceh/lead/advisory/acclpp/actions-blls.htm
 
-*500 cities census tract data *
+*500 cities census tract data*
 https://chronicdata.cdc.gov/500-Cities/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb
 
 *EJSM metadata*
