@@ -29,11 +29,12 @@ https://geohub.lacity.org/datasets/lacounty::hazardous-waste-disposal
 
 
 ## Scope
-- We hope to understand what kind of policing occurs and compare different crimes to a census tract’s proximity to environmental hazards. We will also be able to further visualize this distribution by race, as well as other factors that may determine a community’s vulnerability such as climate change vulnerability’s scores, health scores, and cumulative pollution impacts
+- We hope to understand what kind of policing occurs and compare different crimes to a census tract’s proximity to environmental hazards. We will also be able to further visualize this distribution by race and income
+-Further visualizations can include overlaying hazardous facility sites, as well as compare a community's vulnerability to climate change, health, and cumulative pollution impacts to local policing
 
 ## Conclusion:
 - We anticipate finding that particularly in Black and Brown communities there will already be a greater level of policing than the average in Los Angeles. Our main objective is to see if crime incident data rates change based on areas experiencing greater amounts of vulnerability due to environmental health hazards. 
-- We hypothesize that there could be a significantly greater level of policing in these areas than the average of Los Angeles, and that crimes reported connected to mental health issues will be significantly greater in these census tracts. 
+- We hypothesize that there could be a significantly greater level of policing in these areas than the average of Los Angeles and of neighboring census tracts. Furthermore we predict that crimes reported connected to mental health issues will be significantly greater in census tracts closer to proximity to pollution. 
 - Connections between policing and environmental hazards are important to understanding which landscapes are at a higher risk of being exposed to police brutality. 
 
 
