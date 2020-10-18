@@ -63,4 +63,4 @@ https://chronicdata.cdc.gov/500-Cities/500-Cities-Census-Tract-level-Data-GIS-Fr
 https://www.arcgis.com/sharing/rest/content/items/ba1e513f3fd84029bd8888e2374e75c8/info/metadata/metadata.xml?format=default&output=html
 
 
-![Captain Planet](https://github.com/Agonzogonzo/Mangonadas/blob/Additional-Materials/captain_planet.gif0
+![Captain Planet](https://github.com/Agonzogonzo/Mangonadas/blob/Additional-Materials/captain_planet.gif)
