@@ -21,7 +21,7 @@ By Danielle Hoague & Andres Gonzalez
 
 ## Data Description
 - We will be using real-time 2019 data from GeoHub LA. [EJSM scores](https://geohub.lacity.org/datasets/lacounty::ejsm-scores)
-- Our crime incident data [Crime data] https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-2019/63jg-8b9z is transcribed from LAPD paper reports. There are 21 community police stations defining the geographic areas of their communities. The address fields are defined to the nearest hundred block to protect the privacy of the people involved in the incidents.
+- Our crime incident data [Crime data](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-2019/63jg-8b9z) is transcribed from LAPD paper reports. There are 21 community police stations defining the geographic areas of their communities. The address fields are defined to the nearest hundred block to protect the privacy of the people involved in the incidents.
 - The Geohub Environmental Justice Screening Method data is sourced from the California Office of Health Hazard Assessment. The data is defined by the cumulative impacts of social and health vulnerability, health risk and risk exposure, climate change vulnerability, and hazard proximity and sensitive land uses. 
 
 ## Scope
