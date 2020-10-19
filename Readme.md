@@ -4,13 +4,13 @@ By Danielle Hoague & Andres Gonzalez
 
 ## Introduction
 - Contamination from heavy metals and other toxic pollutants continues from the legacies of redlining, segregation, and discriminatory land use practices by localizing hazardous materials in Black, Indigenous, Latin, Asian and Pacific Islander communities.
-- Proximity to these toxic materials can have long lasting neurological impacts and can stunt childhood development (https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000353). Oftentimes, the mental and psychological issues that arise from exposure to toxic materials can result in socio-behavioral issues that are interpreted by law enforcement and other community members as a threat or violent behavior. This phenomenon could be even more commonplace in communities that are already over-policed; where minor instigations can result in excessive violence and suppression by law enforcement officers.
+- According to research in the US and denmark, proximity to these environmental pollutants can have long lasting neurological impacts and can stunt childhood development [Khan et al., 2019](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000353). Oftentimes, the mental and psychological issues that arise from exposure to toxic materials can result in socio-behavioral issues that are interpreted by law enforcement and other community members as a threat or violent behavior. This phenomenon could be even more commonplace in communities that are already over-policed; where minor instigations can result in excessive violence and suppression by law enforcement officers.
 
 
 ### *Our research seeks to understand: Are communities that are proximate to environmental health hazards more policed than those not as exposed by environmental health hazards?* 
 
 ## Explanation
-- Exposure to pollution can cause a plethora of negative health outcomes including degraded mental and physical health . Mental health conditions can manifest from unremediated exposure to ambient air pollution containing a mix of compounds including particulate matter (PM), nitrogen dioxide (NO2), carbon monoxide (CO), and sulfur dioxide (SO2) [NCBI, 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5891065/#:~:text=A%20growing%20body%20of%20evidence,to%20air%20pollutants%20%5B2%5D.). According to the Journal of Urban Design and Mental Health, there is a paucity of evidence that mental health is correlated with ambient air pollution because there are confounding factors such as urban access to green space, vegetation, density and high rise living [King, 2018](https://www.urbandesignmentalhealth.com/journal-4---air-pollution-and-mental-health.html).
+- Exposure to pollution can cause a plethora of negative health outcomes including degraded mental and physical health . Mental health conditions can manifest from unremediated exposure to ambient air pollution containing a mix of compounds including particulate matter (PM), nitrogen dioxide (NO2), carbon monoxide (CO), and sulfur dioxide (SO2) [(NCBI, 2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5891065/#:~:text=A%20growing%20body%20of%20evidence,to%20air%20pollutants%20%5B2%5D.). According to a review published in the Journal of Urban Design and Mental Health, there is a paucity of evidence that mental health is correlated with ambient air pollution because there are confounding factors such as urban access to green space, vegetation, density and high rise living [(UD/MH,2018)](https://www.urbandesignmentalhealth.com/journal-4---air-pollution-and-mental-health.html).
 - Behaviors associated with mental health conditions could be criminalized or deemed as “deviant”. Due to the perceptions of mental health concerns by law enforcement and communities, those who have been exposed by environmental hazards could be perceived as a threat to public safety. 
 
 ## Spatial scope
@@ -55,6 +55,12 @@ https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/Pages/Environmental-Health-Topics.
 *EJSM metadata description*
 https://www.arcgis.com/sharing/rest/content/items/ba1e513f3fd84029bd8888e2374e75c8/info/metadata/metadata.xml?format=default&output=html
 
+*Citations*
+Khan A, Plana-Ripoll O, Antonsen S, Brandt J, Geels C, et al. (2019) Environmental pollution is associated with increased risk of psychiatric disorders in the US and Denmark. PLOS Biology 17(8): e3000353. https://doi.org/10.1371/journal.pbio.3000353
+
+King, Jacob. (2018). Air Pollution, mental health, and implications for urban design: a review. *Journal of Urban Design and Mental Health*. 4:6 https://www.urbandesignmentalhealth.com/journal-4---air-pollution-and-mental-health.html
+
+Shin, J., Park, J. Y., & Choi, J. (2018). Long-term exposure to ambient air pollutants and mental health status: A nationwide population-based cross-sectional study. PloS one, 13(4), e0195607. https://doi.org/10.1371/journal.pone.0195607
 
 
 ![Captain Planet](https://github.com/Agonzogonzo/Mangonadas/blob/Additional-Materials/captain_planet.gif)
