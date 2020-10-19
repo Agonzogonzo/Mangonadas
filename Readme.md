@@ -56,6 +56,7 @@ https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/Pages/Environmental-Health-Topics.
 https://www.arcgis.com/sharing/rest/content/items/ba1e513f3fd84029bd8888e2374e75c8/info/metadata/metadata.xml?format=default&output=html
 
 *Citations*
+
 Khan A, Plana-Ripoll O, Antonsen S, Brandt J, Geels C, et al. (2019) Environmental pollution is associated with increased risk of psychiatric disorders in the US and Denmark. PLOS Biology 17(8): e3000353. https://doi.org/10.1371/journal.pbio.3000353
 
 King, Jacob. (2018). Air Pollution, mental health, and implications for urban design: a review. *Journal of Urban Design and Mental Health*. 4:6 https://www.urbandesignmentalhealth.com/journal-4---air-pollution-and-mental-health.html
