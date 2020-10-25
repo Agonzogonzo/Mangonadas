@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Population and Poverty by Census Tract</title>
+                <onlink>https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/Demographics/MapServer/11</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Estimate of 2018 general population and population below federal poverty level summarized by age group, gender, race/ethnicity per Census Tract.General Attribute
+information
+
+·       
+Statistical Area: 2010 Census Tract
+
+·       
+General Population and Population in Poverty
+below 100% and 200% FPL
+
+·       
+Variables and Labels:
+ 
+ 
+ 
+ 
+ 
+  Population
+  Pop below 100% Federal Poverty
+  Level
+  Pop below 200% Federal Poverty
+  Level
+  Label
+ 
+ 
+  (&amp;quot;a&amp;quot;
+  = 100% FPL)
+  (&amp;quot;d&amp;quot; =200% FPL)
+ 
+ 
+  Tract
+  
+  
+  2010 Census Tract
+ 
+ 
+  male
+  male18a
+  male18d
+  male total
+ 
+ 
+  m_0
+  ma_0
+  md_0
+  male 0-4 years
+ 
+ 
+  m_5
+  ma_5
+  md_5
+  male 5-9 years
+ 
+ 
+  m_10
+  ma_10
+  md_10
+  male 10-14 years
+ 
+ 
+  m_15
+  ma_15
+  md_15
+  male 15-17 years
+ 
+ 
+  m_18
+  ma_18
+  md_18
+  male 18-19 years
+ 
+ 
+  m_40
+  ma_40
+  md_40
+  male 40-44 years
+ 
+ 
+  m_45
+  ma_45
+  md_45
+  male 45-49 years
+ 
+ 
+  m_30
+  ma_30
+  md_30
+  male 30-34 years
+ 
+ 
+  m_35
+  ma_35
+  md_35
+  male 35-39 years
+ 
+ 
+  m_40
+  ma_40
+  md_40
+  male 40-44 years
+ 
+ 
+  m_45
+  ma_45
+  md_45
+  male 45-49 years
+ 
+ 
+  m_50
+  ma_50
+  md_50
+  male 50-54 years
+ 
+ 
+  m_55
+  ma_55
+  md_55
+  male 55-59 years
+ 
+ 
+  m_60
+  ma_60
+  md_60
+  male 60-64 years
+ 
+ 
+  m_65
+  ma_65
+  md_65
+  male 65-69 years
+ 
+ 
+  m_70
+  ma_70
+  md_70
+  male 70-74 years
+ 
+ 
+  m_75
+  ma_75
+  md_75
+  male 75-79 years
+ 
+ 
+  m_80
+  ma_80
+  md_80
+  male 80-84 years
+ 
+ 
+  m_85
+  ma_85
+  md_85
+  male 85 and older
+ 
+ 
+  female
+  female18a
+  female18d
+  female total
+ 
+ 
+  f_0
+  fa_0
+  fd_0
+  female 0-4 years
+ 
+ 
+  f_5
+  fa_5
+  fd_5
+  female 5-9 years
+ 
+ 
+  f_10
+  fa_10
+  fd_10
+  female 10-14 years
+ 
+ 
+  f_15
+  fa_15
+  fd_15
+  female 15-17 years
+ 
+ 
+  f_18
+  fa_18
+  fd_18
+  female 18-19 years
+ 
+ 
+  f_40
+  fa_40
+  fd_40
+  female 40-44 years
+ 
+ 
+  f_45
+  fa_45
+  fd_45
+  female 45-49 years
+ 
+ 
+  f_30
+  fa_30
+  fd_30
+  female 30-34 years
+ 
+ 
+  f_35
+  fa_35
+  fd_35
+  female 35-39 years
+ 
+ 
+  f_40
+  fa_40
+  fd_40
+  female 40-44 years
+ 
+ 
+  f_45
+  fa_45
+  fd_45
+  female 45-49 years
+ 
+ 
+  f_50
+  fa_50
+  fd_50
+  female 50-54 years
+ 
+ 
+  f_55
+  fa_55
+  fd_55
+  female 55-59 years
+ 
+ 
+  f_60
+  fa_60
+  fd_60
+  female 60-64 years
+ 
+ 
+  f_65
+  fa_65
+  fd_65
+  female 65-69 years
+ 
+ 
+  f_70
+  fa_70
+  fd_70
+  female 70-74 years
+ 
+ 
+  f_75
+  fa_75
+  fd_75
+  female 75-79 years
+ 
+ 
+  f_80
+  fa_80
+  fd_80
+  female 80-84 years
+ 
+ 
+  f_85
+  fa_85
+  fd_85
+  female 85 and older
+ 
+ 
+  wht18
+  wht18a
+  wht18d
+  non-Hisp White 
+ 
+ 
+  blk18
+  blk18a
+  blk18d
+  non-Hisp Black 
+ 
+ 
+  nat18
+  nat18a
+  nat18d
+  non-Hisp Native American 
+ 
+ 
+  asn18
+  asn18a
+  asn18d
+  non-Hisp Asian Total
+ 
+ 
+  pac18
+  pac18a
+  pac18d
+  non-Hisp Pacific Islander 
+ 
+ 
+  lat18
+  lat18a
+  lat18d
+  Hispanic 
+ Date Created/Updated:Estimated as of July 1, 2018
+
+Data Source:County of Los Angeles, Internal Services
+Department, Information Technology Service, Urban Research-GIS Section, July 1, 2018 Population Estimates for Los
+Angeles County Tract-City and
+Countywide Statistical Area Splits by Age, Sex and Race/Ethnicity, Los
+Angeles, CA, March 2019.</abstract>
+            <purpose>2018 estimate of general population and population below federal poverty level summarized by age group, gender, race/ethnicity per Census Tract.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Population</themekey>
+                <themekey>Poverty</themekey>
+                <themekey>Census Tracts</themekey>
+                <themekey>tract</themekey>
+                <themekey>Age</themekey>
+                <themekey>Gender</themekey>
+                <themekey>Race/Ethnicity</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The data herein is for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying intents. The County of Los Angeles reserves the right to change, restrict or discontinue access at any time. All users of the maps and data presented on https://lacounty.maps.arcgis.com or deriving from any LA County REST URLs, agree to the following Terms of Use as outlined on the County of LA Enterprise GIS (eGIS) Hub (https://egis-lacounty.hub.arcgis.com/pages/terms-of-use).</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Los Angeles County</cntorg>
+                    <cntper>Victor Chen</cntper>
+                </cntorgp>
+                <cntemail>VChen@isd.lacounty.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>Los Angeles County, Internal Services Department
+Please contact Victor Chen (562-658-1799, Vchen@isd.lacounty.gov) for further details of population and poverty estimate.</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20200730</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
