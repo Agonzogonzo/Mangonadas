@@ -23,7 +23,9 @@ Our workflow in swapping our work between notebooks is working well. We learn a 
 **Data Update:**
 
 For our analysis, we are considering mapping three types of crime incidents. Our three types of incidents will include: suicide attempts, public disturbances, and homicides. We could see a correlation between different types of policing in areas most affected by environmental hazards in south central Los Angeles. 
+
 Through trial and error, we have been able to work and merge our Census Tract and Environmental Justice data, but still need to understand some elements of our analysis. The elements we need to work on include manipulating the homogeneous scores numbered 1-5 in the EJSM data. 
+
 Our main concern at this point in time is the lack of a clear indicator that can be connected to over policing in environmental hazard areas. This is relative to over-policing in neighboring areas because there are so many confounding variables. For example: How do we know that over policing in a neighborhood with an environmental hazard is a result of the hazardous impacts and instead of over policing in the general vicinity?
 
 **Sources:** 
