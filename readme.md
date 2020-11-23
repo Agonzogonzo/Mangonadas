@@ -1,4 +1,4 @@
-# Policing Proximate to Hazards
+# Policing Proximate to Hazards Updated 11/22
 By Danielle Hoague & Andres Gonzalez
 -----
 
@@ -16,7 +16,8 @@ By Danielle Hoague & Andres Gonzalez
 ## Spatial scope
 - Using 2019 Geohub Los Angeles data, we will examine if pollution correlates with excessive policing in the city of Los Angeles. We will overlay crime incident data with environmental hazard data by census tract in Los Angeles, putting an emphasis on the packed hazardous facility corridor in the southeast region of the city.
 - We anticipate that our main challenge will be providing statistically significant data overlaying these two features of vulnerable communities of color, many who are already overpoliced. 
-
+- *Our data was successful in isolating key crimes and background ejsm scores, primarily census tracts that score high in relationship to environmental hazards, such as pollutants and waste sites. While we've struggled to create a statistical significant correlation we are able to see a greater accumulation of crimes, particularly aggravated assaults, areas proximiate to environmental hazards.*
+- *Through R and qualitative methods we hope to shed further light on the scope of our project. Will there be a correlation with sites? How will the year the EJSM data was made affect the correlation and longitudinal understanding of arrest data in high scoring census tracts?*
  
 
 ## Data Description
@@ -27,11 +28,14 @@ By Danielle Hoague & Andres Gonzalez
 ## Scope
 - We hope to understand what kind of policing occurs and compare different crimes to a census tract’s proximity to environmental hazards. By using the Geohub data, we will also be able to further visualize this distribution by race and income.
 -Further visualizations could include overlaying hazardous facility sites, as well as compare a community's vulnerability to climate change, health, and cumulative pollution impacts to local policing.
+-*Our scope can potentially also include temporal data and long term arrest impacts. If we were to overlay it with specific hazards, such as the Exide battery plant, and it's founding and closure, we could see, and potentially even predict the degree of arrests in a particular census tracts based on the delayed and long-lived health impacts of heavy metals in these areas*
 
 ## Conclusion:
 - We anticipate finding that particularly in Black and Brown communities there could be elevated levels policing compared to the average in Los Angeles. Our main objective is to see if crime incident data rates variate based on areas experiencing greater amounts of vulnerability due to environmental health hazards. 
 - We hypothesize that there could be a significantly greater level of policing in these areas than the average of Los Angeles and of neighboring census tracts. Furthermore, we predict that crimes reported connected to mental health issues will be significantly greater in census tracts closer to proximity to pollution. 
 - We hope to visulaize these connections between policing and environmental hazards because these factors are crucial to understanding which landscapes are at a higher risk of being exposed to police brutality. 
+- *Our initial visualizations show that crimes as a whole do occur more in census tracts that score higher on Hazard scores, and cumulative impact scores (an index of various index variables including social vulnerability, proximity to hazarrds, and climate vulnerability). While this isn't suprising, it also becomes apparent that specific arrests such, as aggravated assault, do have a greater tendency to occur in high scoring census tracts relative to proximity to hazards, especially in downtown and south LA. Our two other indicators, disturbing the peace, and disorderly conduct, were very rare charges and didn't occur with enough frequency in our sample size to confidently say they occured due to policing of the socio-behavioral impacts from proximity to environmental hazards*
+- *Next steps can include creating an index of our own making, and running a statistical analysis or a regression to identify how policing is shaped by, and responds to, the health impacts of environmental hazards on communities that are most exposed. Another element to possibly explore are the temporal dynamics, and the qualtiatve research required to understand the timelines and histories of contamination in these areas.*
 
 
 
